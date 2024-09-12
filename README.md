@@ -16,6 +16,7 @@ GitHub Action with the following rules:
 - Contributors with 1 - 4 merged PRs are labeled `repeat-contributor`.
 - Contributors with 5+ merged PRs are labeled `allstar-contributor`.
 
+
 ```yaml
 name: add-merit-badger
 on:
